@@ -3,6 +3,7 @@
 
 
 * {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
   }
 
@@ -17,7 +18,7 @@
    }
 
    #conteudo {
-     height: 135vh;
+     height: 170vh;
      width: 600px;
      margin: 100px  auto;
      padding: 70px;
